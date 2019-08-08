@@ -3,7 +3,7 @@
     <include name="_remotes.xml"/>
 
     <!-- Legato: framework -->
-    <project path="legato" name="legato-af" dest-branch="master" groups="default,legato" revision="refs/heads/master" remote="legato-github"/>
+    <project path="legato" name="legato-af" dest-branch="master" groups="default,legato" revision="refs/heads/voxel-yocto-sdk" remote="voxel-legato"/>
 
     <!-- Legato: PA Open-Source -->
     <project path="legato/platformAdaptor/at" name="legato-PlatformAdaptor-AT" dest-branch="master" groups="default,legato" revision="refs/heads/master" remote="legato-github"/>
