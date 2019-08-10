@@ -30,7 +30,7 @@
 
     <!-- Legato: modules -->
     <project path="legato/modules/WiFi" name="legato-WiFi" dest-branch="master" groups="default,legato" revision="refs/heads/master" remote="legato-github"/>
-    <project path="legato/modules/Raspi" name="legato-Raspi" dest-branch="master" groups="default,legato" revision="refs/heads/master" remote="legato-github"/>
+    <project path="legato/modules/Raspi" name="legato-Raspi-colibri-imx6" dest-branch="master" groups="default,legato" revision="refs/heads/master" remote="voxel-legato"/>
     <project path="legato/modules/Dualsys" name="legato-Dualsys" dest-branch="master" groups="default,legato" revision="refs/heads/master" remote="legato-github"/>
 
     <!-- Legato: imgdiff -->
